@@ -65,6 +65,7 @@ library
                        , io-classes
                        , network
                        , ouroboros-network-framework
+                       , singletons >= 3.0.0
                        , serialise
                        , stm
                        , text
